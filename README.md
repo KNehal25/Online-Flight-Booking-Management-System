@@ -24,3 +24,7 @@ Further, Now Connecting Database
 After Creating Database,
 
 9th Step: Moreover, Open a browser and go to URL “http://localhost/Online_Flight_Booking_Management_System ”
+
+Username: admin
+
+Password: admin123
