@@ -21,7 +21,7 @@ Follow the following steps after Starting Apache and MySQL in XAMPP:
 
 **9th Step:** Moreover, Open a browser and go to URL “http://localhost/Online_Flight_Booking_Management_System ”
 
-#Below are the Admin Login Details:-
+# Below are the Admin Login Details:-
 
 _Username:_ **admin**
 
